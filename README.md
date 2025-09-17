@@ -33,8 +33,7 @@ vr-patient-simulator/
 │   └── package.json        # Frontend dependencies
 
 ⚙️ Installation
-1️⃣ Clone the repo
-git clone https://github.com/your-username/vr-patient-simulator.git
+ 
 cd vr-patient-simulator
 
 2️⃣ Backend Setup (FastAPI)
@@ -105,6 +104,10 @@ Frontend blank page → corrected Vite entry (main.jsx) and HTML setup
 
 📜 License
 
-MIT License – free to use and modify.
+ free to use and modify.
 
-Do you want me to also include screenshots (
+screenshots ()
+<img width="877" height="874" alt="image" src="https://github.com/user-attachments/assets/d290d46c-13b3-4754-abfd-a12ae4b1bc9c" />
+
+<img width="822" height="847" alt="image" src="https://github.com/user-attachments/assets/f17be358-e97c-4fff-8ca3-0b9bb6f944fe" />
+
